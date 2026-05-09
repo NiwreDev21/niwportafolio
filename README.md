@@ -1,6 +1,6 @@
 # 👋 Hola, soy Erwin
 
-![Banner](./assets/logo_porta.png)
+![Banner](./src/assets/logo_porta.png)
 
 Soy desarrollador apasionado por crear aplicaciones y resolver problemas reales usando tecnología.  
 Me gusta trabajar en proyectos relacionados con:
@@ -41,8 +41,8 @@ Proyecto usando OpenCV, MediaPipe y Python para controlar un dron mediante movim
 
 ## 📫 Contacto
 
-- GitHub: https://github.com/TU-USUARIO
-- Email: tuemail@example.com
+- GitHub: https://github.com/NiwreDev21
+- Email: codeempower00@gmail.com
 
 ---
 
