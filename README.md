@@ -1,16 +1,49 @@
-# React + Vite
+# 👋 Hola, soy Erwin
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Banner](./assets/logo_porta.png)
 
-Currently, two official plugins are available:
+Soy desarrollador apasionado por crear aplicaciones y resolver problemas reales usando tecnología.  
+Me gusta trabajar en proyectos relacionados con:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 📱 Desarrollo móvil
+- 🌐 Desarrollo web
+- 🛰️ Sistemas en tiempo real
+- 🤖 Python y automatización
 
-## React Compiler
+Actualmente estoy trabajando en proyectos como:
+- Seguimiento de transporte en tiempo real
+- Aplicaciones Flutter
+- Sistemas con OpenCV y visión artificial
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🚀 Tecnologías que uso
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Flutter
+- Dart
+- Python
+- Next.js
+- React
+- MongoDB
+- Git & GitHub
+
+---
+
+## 📂 Algunos proyectos
+
+### 🚍 EnRuta App
+Aplicación para compartir ubicación de trufis en tiempo real y ayudar a pasajeros a anticipar su salida.
+
+### 🤖 Control de dron con gestos
+Proyecto usando OpenCV, MediaPipe y Python para controlar un dron mediante movimientos de mano.
+
+---
+
+## 📫 Contacto
+
+- GitHub: https://github.com/TU-USUARIO
+- Email: tuemail@example.com
+
+---
+
+⭐ Gracias por visitar mi portafolio.
