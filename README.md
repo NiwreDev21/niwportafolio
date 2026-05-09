@@ -31,6 +31,7 @@ Actualmente estoy trabajando en proyectos como:
 
 ## 📂 Algunos proyectos
 
+![Banner](./src/assets/2read_porta.png)
 ### 🚍 EnRuta App
 Aplicación para compartir ubicación de trufis en tiempo real y ayudar a pasajeros a anticipar su salida.
 
